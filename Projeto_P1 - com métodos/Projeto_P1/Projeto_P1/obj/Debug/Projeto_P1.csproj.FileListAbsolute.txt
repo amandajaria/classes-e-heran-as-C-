@@ -1,0 +1,20 @@
+C:\Users\diretoria\Desktop\Projeto_P1\Projeto_P1\Projeto_P1\bin\Debug\Projeto_P1.exe.config
+C:\Users\diretoria\Desktop\Projeto_P1\Projeto_P1\Projeto_P1\bin\Debug\Projeto_P1.exe
+C:\Users\diretoria\Desktop\Projeto_P1\Projeto_P1\Projeto_P1\bin\Debug\Projeto_P1.pdb
+C:\Users\diretoria\Desktop\Projeto_P1\Projeto_P1\Projeto_P1\obj\Debug\Projeto_P1.csprojAssemblyReference.cache
+C:\Users\diretoria\Desktop\Projeto_P1\Projeto_P1\Projeto_P1\obj\Debug\Projeto_P1.Form1.resources
+C:\Users\diretoria\Desktop\Projeto_P1\Projeto_P1\Projeto_P1\obj\Debug\Projeto_P1.Properties.Resources.resources
+C:\Users\diretoria\Desktop\Projeto_P1\Projeto_P1\Projeto_P1\obj\Debug\Projeto_P1.csproj.GenerateResource.cache
+C:\Users\diretoria\Desktop\Projeto_P1\Projeto_P1\Projeto_P1\obj\Debug\Projeto_P1.csproj.CoreCompileInputs.cache
+C:\Users\diretoria\Desktop\Projeto_P1\Projeto_P1\Projeto_P1\obj\Debug\Projeto_P1.exe
+C:\Users\diretoria\Desktop\Projeto_P1\Projeto_P1\Projeto_P1\obj\Debug\Projeto_P1.pdb
+C:\Users\diretoria\Desktop\Projeto_P1 - + metods\Projeto_P1\Projeto_P1\bin\Debug\Projeto_P1.exe.config
+C:\Users\diretoria\Desktop\Projeto_P1 - + metods\Projeto_P1\Projeto_P1\bin\Debug\Projeto_P1.exe
+C:\Users\diretoria\Desktop\Projeto_P1 - + metods\Projeto_P1\Projeto_P1\bin\Debug\Projeto_P1.pdb
+C:\Users\diretoria\Desktop\Projeto_P1 - + metods\Projeto_P1\Projeto_P1\obj\Debug\Projeto_P1.csprojAssemblyReference.cache
+C:\Users\diretoria\Desktop\Projeto_P1 - + metods\Projeto_P1\Projeto_P1\obj\Debug\Projeto_P1.Form1.resources
+C:\Users\diretoria\Desktop\Projeto_P1 - + metods\Projeto_P1\Projeto_P1\obj\Debug\Projeto_P1.Properties.Resources.resources
+C:\Users\diretoria\Desktop\Projeto_P1 - + metods\Projeto_P1\Projeto_P1\obj\Debug\Projeto_P1.csproj.GenerateResource.cache
+C:\Users\diretoria\Desktop\Projeto_P1 - + metods\Projeto_P1\Projeto_P1\obj\Debug\Projeto_P1.csproj.CoreCompileInputs.cache
+C:\Users\diretoria\Desktop\Projeto_P1 - + metods\Projeto_P1\Projeto_P1\obj\Debug\Projeto_P1.exe
+C:\Users\diretoria\Desktop\Projeto_P1 - + metods\Projeto_P1\Projeto_P1\obj\Debug\Projeto_P1.pdb
